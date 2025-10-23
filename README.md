@@ -258,6 +258,10 @@ npm start
 
 
 
+## 📞 Support
+
+For questions or issues, please Contact me on swarajsatyam5@gmail.com
+
 ---
 
 **Note**: This API is designed following REST principles and includes comprehensive documentation via Swagger UI. Make sure to check the live documentation for the most up-to-date endpoint details and request/response examples.
